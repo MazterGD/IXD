@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487291943729",
+    "project_id": "castle-craze",
+    "storage_bucket": "castle-craze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487291943729:android:584dcab1e441e290eace10",
+        "android_client_info": {
+          "package_name": "com.IXDLabs.CastleCraze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487291943729-qqdv8v7lfiit0177lduv9d2bg5gms22n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWz7f9iPo5O8t7nDBEdIOTPYh_HKeFK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487291943729-qqdv8v7lfiit0177lduv9d2bg5gms22n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
