@@ -64,4 +64,5 @@ ExternalDependencyManager/
 Firebase/
 Plugins/
 StreamingAssets/
+!/[Aa]ssets/*.meta
 
